@@ -8,5 +8,5 @@
 </div>
 
 .container{
-  display: flex
+  display: flex;
 }
